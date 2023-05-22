@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{B4ED7EAE-0B8E-4782-B2FC-71C84B217E05}") = "ReallyBan", "ReallyBan\ReallyBan.csproj", "{07B1AA33-D6B4-47B9-8881-B703EE38E33C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B1AA33-D6B4-47B9-8881-B703EE38E33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B1AA33-D6B4-47B9-8881-B703EE38E33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B1AA33-D6B4-47B9-8881-B703EE38E33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B1AA33-D6B4-47B9-8881-B703EE38E33C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
